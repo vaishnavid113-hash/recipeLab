@@ -1,0 +1,211 @@
+{
+  "recipes": {
+    "total": 21,
+    "valid": 0,
+    "invalid": 21,
+    "invalid_examples": [
+      {
+        "recipe_id": "butter-chicken-007",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "chana-masala-005",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "chocolate-cake-003",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "dal-tadka-008",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "edli-018",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "falafel-wrap-015",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "grilled-cheese-004",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "masala-dosa-002",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "misal-pav-020",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "miso-soup-011",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "pancakes-010",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "paneer-tikka-006",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "pav-bhaji-001",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "pulav-016",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "puran-poli-019",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "quinoa-salad-013",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "ramen-bowl-014",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "spaghetti-aglio-009",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "tacos-012",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "vada-pav-017",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      },
+      {
+        "recipe_id": "veg-biryani-001",
+        "reasons": [
+          "empty ingredients",
+          "empty steps"
+        ]
+      }
+    ]
+  },
+  "interactions": {
+    "total": 100,
+    "valid": 93,
+    "invalid": 7,
+    "invalid_examples": [
+      {
+        "interaction_id": "int-0001",
+        "reasons": [
+          "rating value not int"
+        ]
+      },
+      {
+        "interaction_id": "int-0026",
+        "reasons": [
+          "rating value not int"
+        ]
+      },
+      {
+        "interaction_id": "int-0017",
+        "reasons": [
+          "rating value not int"
+        ]
+      },
+      {
+        "interaction_id": "int-0008",
+        "reasons": [
+          "rating value not int"
+        ]
+      },
+      {
+        "interaction_id": "int-0004",
+        "reasons": [
+          "rating value not int"
+        ]
+      },
+      {
+        "interaction_id": "int-0006",
+        "reasons": [
+          "rating value not int"
+        ]
+      },
+      {
+        "interaction_id": "int-0049",
+        "reasons": [
+          "rating value not int"
+        ]
+      }
+    ]
+  },
+  "users": {
+    "total": 10,
+    "valid": 10,
+    "invalid": 0,
+    "invalid_examples": []
+  }
+}

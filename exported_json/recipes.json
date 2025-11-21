@@ -1,0 +1,1352 @@
+[
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Butter Chicken recipe for testing.",
+    "title": "Butter Chicken",
+    "recipe_id": "butter-chicken-007",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "rice"
+      },
+      {
+        "quantity": "1 units",
+        "order": 2,
+        "name": "milk"
+      },
+      {
+        "quantity": "1 units",
+        "order": 3,
+        "name": "paneer"
+      }
+    ],
+    "prep_time_minutes": 13,
+    "cook_time_minutes": 37,
+    "author_id": "user_gen_2",
+    "difficulty": "hard",
+    "servings": 2,
+    "_doc_id": "butter-chicken-007"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Chana Masala recipe for testing.",
+    "title": "Chana Masala",
+    "recipe_id": "chana-masala-005",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "cheese"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "cilantro"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "milk"
+      }
+    ],
+    "prep_time_minutes": 24,
+    "cook_time_minutes": 39,
+    "author_id": "user_gen_1",
+    "difficulty": "hard",
+    "servings": 4,
+    "_doc_id": "chana-masala-005"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Chocolate Cake recipe for testing.",
+    "title": "Chocolate Cake",
+    "recipe_id": "chocolate-cake-003",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "flour"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "tomato"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "potato"
+      },
+      {
+        "quantity": "2 units",
+        "order": 4,
+        "name": "butter"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "tomato"
+      },
+      {
+        "quantity": "3 units",
+        "order": 6,
+        "name": "flour"
+      }
+    ],
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 24,
+    "author_id": "user_gen_4",
+    "difficulty": "easy",
+    "servings": 2,
+    "_doc_id": "chocolate-cake-003"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      }
+    ],
+    "description": "A simple Dal Tadka recipe for testing.",
+    "title": "Dal Tadka",
+    "recipe_id": "dal-tadka-008",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "rice"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "onion"
+      },
+      {
+        "quantity": "3 units",
+        "order": 3,
+        "name": "cheese"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "flour"
+      }
+    ],
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 59,
+    "author_id": "user_gen_5",
+    "difficulty": "hard",
+    "servings": 6,
+    "_doc_id": "dal-tadka-008"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      },
+      {
+        "step_number": 6,
+        "description": "Step 6 description"
+      }
+    ],
+    "description": "A simple Edli recipe for testing.",
+    "title": "Edli",
+    "recipe_id": "edli-018",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "2 units",
+        "order": 1,
+        "name": "cilantro"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "peas"
+      },
+      {
+        "quantity": "1 units",
+        "order": 3,
+        "name": "paneer"
+      },
+      {
+        "quantity": "3 units",
+        "order": 4,
+        "name": "onion"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "sugar"
+      }
+    ],
+    "prep_time_minutes": 8,
+    "cook_time_minutes": 50,
+    "author_id": "user_gen_5",
+    "difficulty": "easy",
+    "servings": 4,
+    "_doc_id": "edli-018"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Falafel Wrap recipe for testing.",
+    "title": "Falafel Wrap",
+    "recipe_id": "falafel-wrap-015",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "1 units",
+        "order": 1,
+        "name": "rice"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "tomato"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "rice"
+      },
+      {
+        "quantity": "3 units",
+        "order": 4,
+        "name": "potato"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "paneer"
+      },
+      {
+        "quantity": "3 units",
+        "order": 6,
+        "name": "potato"
+      }
+    ],
+    "prep_time_minutes": 7,
+    "cook_time_minutes": 17,
+    "author_id": "user_gen_1",
+    "difficulty": "medium",
+    "servings": 6,
+    "_doc_id": "falafel-wrap-015"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      }
+    ],
+    "description": "A simple Grilled Cheese recipe for testing.",
+    "title": "Grilled Cheese",
+    "recipe_id": "grilled-cheese-004",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "quantity": "2 units",
+        "order": 1,
+        "name": "paneer"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "cheese"
+      },
+      {
+        "quantity": "1 units",
+        "order": 3,
+        "name": "chili"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "tomato"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "paneer"
+      },
+      {
+        "quantity": "1 units",
+        "order": 6,
+        "name": "egg"
+      },
+      {
+        "quantity": "3 units",
+        "order": 7,
+        "name": "cheese"
+      }
+    ],
+    "prep_time_minutes": 17,
+    "cook_time_minutes": 30,
+    "author_id": "user_gen_5",
+    "difficulty": "medium",
+    "servings": 6,
+    "_doc_id": "grilled-cheese-004"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      }
+    ],
+    "description": "A simple Masala Dosa recipe for testing.",
+    "title": "Masala Dosa",
+    "recipe_id": "masala-dosa-002",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "1 units",
+        "order": 1,
+        "name": "flour"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "onion"
+      },
+      {
+        "quantity": "1 units",
+        "order": 3,
+        "name": "egg"
+      },
+      {
+        "quantity": "2 units",
+        "order": 4,
+        "name": "chili"
+      },
+      {
+        "quantity": "2 units",
+        "order": 5,
+        "name": "garlic"
+      }
+    ],
+    "prep_time_minutes": 27,
+    "cook_time_minutes": 21,
+    "author_id": "user_gen_4",
+    "difficulty": "medium",
+    "servings": 2,
+    "_doc_id": "masala-dosa-002"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      }
+    ],
+    "description": "A simple Misal pav recipe for testing.",
+    "title": "Misal pav",
+    "recipe_id": "misal-pav-020",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "1 units",
+        "order": 1,
+        "name": "onion"
+      },
+      {
+        "quantity": "1 units",
+        "order": 2,
+        "name": "butter"
+      },
+      {
+        "quantity": "3 units",
+        "order": 3,
+        "name": "egg"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "potato"
+      },
+      {
+        "quantity": "2 units",
+        "order": 5,
+        "name": "rice"
+      }
+    ],
+    "prep_time_minutes": 17,
+    "cook_time_minutes": 44,
+    "author_id": "user_gen_4",
+    "difficulty": "easy",
+    "servings": 4,
+    "_doc_id": "misal-pav-020"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      }
+    ],
+    "description": "A simple Miso Soup recipe for testing.",
+    "title": "Miso Soup",
+    "recipe_id": "miso-soup-011",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "American",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "peas"
+      },
+      {
+        "quantity": "1 units",
+        "order": 2,
+        "name": "butter"
+      },
+      {
+        "quantity": "1 units",
+        "order": 3,
+        "name": "chili"
+      },
+      {
+        "quantity": "3 units",
+        "order": 4,
+        "name": "chili"
+      },
+      {
+        "quantity": "2 units",
+        "order": 5,
+        "name": "tomato"
+      },
+      {
+        "quantity": "1 units",
+        "order": 6,
+        "name": "egg"
+      }
+    ],
+    "prep_time_minutes": 17,
+    "cook_time_minutes": 32,
+    "author_id": "user_gen_3",
+    "difficulty": "easy",
+    "servings": 6,
+    "_doc_id": "miso-soup-011"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Pancakes recipe for testing.",
+    "title": "Pancakes",
+    "recipe_id": "pancakes-010",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Japanese",
+    "ingredients": [
+      {
+        "quantity": "1 units",
+        "order": 1,
+        "name": "potato"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "paneer"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "sugar"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "paneer"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "rice"
+      }
+    ],
+    "prep_time_minutes": 13,
+    "cook_time_minutes": 59,
+    "author_id": "user_gen_2",
+    "difficulty": "easy",
+    "servings": 2,
+    "_doc_id": "pancakes-010"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Paneer Tikka recipe for testing.",
+    "title": "Paneer Tikka",
+    "recipe_id": "paneer-tikka-006",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Japanese",
+    "ingredients": [
+      {
+        "quantity": "1 units",
+        "order": 1,
+        "name": "cheese"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "cheese"
+      },
+      {
+        "quantity": "3 units",
+        "order": 3,
+        "name": "cilantro"
+      },
+      {
+        "quantity": "3 units",
+        "order": 4,
+        "name": "chili"
+      }
+    ],
+    "prep_time_minutes": 26,
+    "cook_time_minutes": 35,
+    "author_id": "user_gen_3",
+    "difficulty": "hard",
+    "servings": 2,
+    "_doc_id": "paneer-tikka-006"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Boil potatoes, cauliflower, peas until soft."
+      },
+      {
+        "step_number": 2,
+        "description": "Mash vegetables roughly and keep aside."
+      },
+      {
+        "step_number": 3,
+        "description": "Saute onions and tomatoes, add spices and pav bhaji masala."
+      },
+      {
+        "step_number": 4,
+        "description": "Add mashed veg, simmer and adjust seasoning."
+      },
+      {
+        "step_number": 5,
+        "description": "Serve hot with buttered pav and chopped onions."
+      }
+    ],
+    "description": "Spicy mashed vegetable curry served with buttered pav buns.",
+    "title": "Pav Bhaji",
+    "recipe_id": "pav-bhaji-001",
+    "tags": [
+      "street-food",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "Indian",
+    "updated_at": "2025-11-17T08:00:00Z",
+    "ingredients": [
+      {
+        "quantity": "3 medium",
+        "order": 1,
+        "name": "potato"
+      },
+      {
+        "quantity": "1 cup chopped",
+        "order": 2,
+        "name": "cauliflower"
+      },
+      {
+        "quantity": "1/2 cup",
+        "order": 3,
+        "name": "green peas"
+      },
+      {
+        "quantity": "3 medium",
+        "order": 4,
+        "name": "tomato"
+      },
+      {
+        "quantity": "2 medium",
+        "order": 5,
+        "name": "onion"
+      },
+      {
+        "quantity": "3 tbsp",
+        "order": 6,
+        "name": "butter"
+      },
+      {
+        "quantity": "2 tbsp",
+        "order": 7,
+        "name": "pav-bhaji-masala"
+      },
+      {
+        "quantity": "1/2 tsp",
+        "order": 8,
+        "name": "turmeric"
+      },
+      {
+        "quantity": "1 tsp",
+        "order": 9,
+        "name": "red chilli powder"
+      },
+      {
+        "quantity": "to taste",
+        "order": 10,
+        "name": "salt"
+      }
+    ],
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "author_id": "user_vaishnavi",
+    "difficulty": "medium",
+    "servings": 4,
+    "_doc_id": "pav-bhaji-001"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      },
+      {
+        "step_number": 6,
+        "description": "Step 6 description"
+      }
+    ],
+    "description": "A simple Pulav recipe for testing.",
+    "title": "Pulav",
+    "recipe_id": "pulav-016",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      {
+        "quantity": "2 units",
+        "order": 1,
+        "name": "garlic"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "milk"
+      },
+      {
+        "quantity": "1 units",
+        "order": 3,
+        "name": "paneer"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "egg"
+      }
+    ],
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 43,
+    "author_id": "user_gen_4",
+    "difficulty": "hard",
+    "servings": 4,
+    "_doc_id": "pulav-016"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      }
+    ],
+    "description": "A simple Puran poli recipe for testing.",
+    "title": "Puran poli",
+    "recipe_id": "puran-poli-019",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Middle Eastern",
+    "ingredients": [
+      {
+        "quantity": "1 units",
+        "order": 1,
+        "name": "onion"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "tomato"
+      },
+      {
+        "quantity": "3 units",
+        "order": 3,
+        "name": "chili"
+      },
+      {
+        "quantity": "2 units",
+        "order": 4,
+        "name": "butter"
+      },
+      {
+        "quantity": "2 units",
+        "order": 5,
+        "name": "cilantro"
+      }
+    ],
+    "prep_time_minutes": 13,
+    "cook_time_minutes": 47,
+    "author_id": "user_gen_2",
+    "difficulty": "easy",
+    "servings": 2,
+    "_doc_id": "puran-poli-019"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      }
+    ],
+    "description": "A simple Quinoa Salad recipe for testing.",
+    "title": "Quinoa Salad",
+    "recipe_id": "quinoa-salad-013",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "quantity": "2 units",
+        "order": 1,
+        "name": "garlic"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "cilantro"
+      },
+      {
+        "quantity": "3 units",
+        "order": 3,
+        "name": "rice"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "chili"
+      },
+      {
+        "quantity": "2 units",
+        "order": 5,
+        "name": "egg"
+      },
+      {
+        "quantity": "2 units",
+        "order": 6,
+        "name": "chili"
+      }
+    ],
+    "prep_time_minutes": 6,
+    "cook_time_minutes": 54,
+    "author_id": "user_gen_3",
+    "difficulty": "easy",
+    "servings": 6,
+    "_doc_id": "quinoa-salad-013"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      }
+    ],
+    "description": "A simple Ramen Bowl recipe for testing.",
+    "title": "Ramen Bowl",
+    "recipe_id": "ramen-bowl-014",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "cilantro"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "cheese"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "milk"
+      }
+    ],
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 19,
+    "author_id": "user_gen_2",
+    "difficulty": "medium",
+    "servings": 4,
+    "_doc_id": "ramen-bowl-014"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Spaghetti Aglio recipe for testing.",
+    "title": "Spaghetti Aglio",
+    "recipe_id": "spaghetti-aglio-009",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Japanese",
+    "ingredients": [
+      {
+        "quantity": "2 units",
+        "order": 1,
+        "name": "peas"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "milk"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "sugar"
+      },
+      {
+        "quantity": "2 units",
+        "order": 4,
+        "name": "cilantro"
+      }
+    ],
+    "prep_time_minutes": 13,
+    "cook_time_minutes": 43,
+    "author_id": "user_gen_5",
+    "difficulty": "hard",
+    "servings": 2,
+    "_doc_id": "spaghetti-aglio-009"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      }
+    ],
+    "description": "A simple Tacos recipe for testing.",
+    "title": "Tacos",
+    "recipe_id": "tacos-012",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "2 units",
+        "order": 1,
+        "name": "cheese"
+      },
+      {
+        "quantity": "2 units",
+        "order": 2,
+        "name": "rice"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "rice"
+      },
+      {
+        "quantity": "3 units",
+        "order": 4,
+        "name": "chili"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "butter"
+      },
+      {
+        "quantity": "3 units",
+        "order": 6,
+        "name": "onion"
+      }
+    ],
+    "prep_time_minutes": 7,
+    "cook_time_minutes": 55,
+    "author_id": "user_gen_1",
+    "difficulty": "hard",
+    "servings": 6,
+    "_doc_id": "tacos-012"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Vada pav recipe for testing.",
+    "title": "Vada pav",
+    "recipe_id": "vada-pav-017",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Italian",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "flour"
+      },
+      {
+        "quantity": "1 units",
+        "order": 2,
+        "name": "rice"
+      },
+      {
+        "quantity": "2 units",
+        "order": 3,
+        "name": "garlic"
+      },
+      {
+        "quantity": "1 units",
+        "order": 4,
+        "name": "butter"
+      },
+      {
+        "quantity": "3 units",
+        "order": 5,
+        "name": "butter"
+      },
+      {
+        "quantity": "3 units",
+        "order": 6,
+        "name": "potato"
+      },
+      {
+        "quantity": "2 units",
+        "order": 7,
+        "name": "cilantro"
+      }
+    ],
+    "prep_time_minutes": 13,
+    "cook_time_minutes": 12,
+    "author_id": "user_gen_2",
+    "difficulty": "easy",
+    "servings": 4,
+    "_doc_id": "vada-pav-017"
+  },
+  {
+    "created_at": "2025-11-17T08:00:00Z",
+    "steps": [
+      {
+        "step_number": 1,
+        "description": "Step 1 description"
+      },
+      {
+        "step_number": 2,
+        "description": "Step 2 description"
+      },
+      {
+        "step_number": 3,
+        "description": "Step 3 description"
+      },
+      {
+        "step_number": 4,
+        "description": "Step 4 description"
+      },
+      {
+        "step_number": 5,
+        "description": "Step 5 description"
+      }
+    ],
+    "description": "A simple Veg Biryani recipe for testing.",
+    "title": "Veg Biryani",
+    "recipe_id": "veg-biryani-001",
+    "tags": [
+      "synthetic",
+      "test"
+    ],
+    "cuisine": "Indian",
+    "ingredients": [
+      {
+        "quantity": "3 units",
+        "order": 1,
+        "name": "paneer"
+      },
+      {
+        "quantity": "3 units",
+        "order": 2,
+        "name": "flour"
+      },
+      {
+        "quantity": "3 units",
+        "order": 3,
+        "name": "flour"
+      }
+    ],
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 58,
+    "author_id": "user_gen_2",
+    "difficulty": "easy",
+    "servings": 2,
+    "_doc_id": "veg-biryani-001"
+  }
+]

@@ -1,0 +1,11 @@
+insight,value
+Most common ingredients,"{""rice"": 10, ""paneer"": 9, ""chili"": 9, ""cilantro"": 8, ""cheese"": 8, ""butter"": 8, ""potato"": 7, ""tomato"": 7, ""flour"": 7, ""onion"": 7, ""egg"": 6, ""milk"": 5, ""garlic"": 4, ""sugar"": 3, ""peas"": 3}"
+Average prep time (mean/median/std),"{""mean"": 15.285714285714286, ""median"": 13.0, ""std"": 7.015289424840981}"
+Difficulty distribution,"{""easy"": 9, ""hard"": 7, ""medium"": 5}"
+Prep-Likes correlation (Pearson r),-0.16194835240465003
+Top viewed recipes,"{""chana-masala-005"": 5, ""vada-pav-017"": 5, ""pulav-016"": 4, ""falafel-wrap-015"": 4, ""ramen-bowl-014"": 4, ""miso-soup-011"": 2, ""dal-tadka-008"": 2, ""chocolate-cake-003"": 2, ""tacos-012"": 2, ""pancakes-010"": 2}"
+Ingredients associated with high engagement,"{""cilantro"": 27.5, ""rice"": 24.0, ""chili"": 23.5, ""cheese"": 21.0, ""butter"": 21.0, ""paneer"": 21.0, ""flour"": 18.0, ""tomato"": 17.5, ""milk"": 17.5, ""potato"": 17.0, ""egg"": 14.0, ""garlic"": 13.0, ""onion"": 9.5, ""peas"": 9.0, ""sugar"": 7.5}"
+Top rated recipes (avg rating),"{""butter-chicken-007"": 5.0, ""quinoa-salad-013"": 4.0, ""grilled-cheese-004"": 3.0}"
+Top conversion like-rate (recipes),"{""veg-biryani-001"": 1.0, ""spaghetti-aglio-009"": 1.0, ""quinoa-salad-013"": 1.0, ""chana-masala-005"": 0.0, ""chocolate-cake-003"": 0.0, ""dal-tadka-008"": 0.0, ""masala-dosa-002"": 0.0, ""edli-018"": 0.0, ""falafel-wrap-015"": 0.0, ""grilled-cheese-004"": 0.0}"
+Engagement by difficulty,"{""hard"": 2.7142857142857144, ""easy"": 2.5555555555555554, ""medium"": 2.3}"
+Avg likes by prep time bucket,"{""medium"": 0.1, ""short"": 0.2727272727272727}"

@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": "user_anna",
+    "signup_date": "2024-09-10T09:00:00Z",
+    "email": "anna@example.com",
+    "country": "USA",
+    "name": "Anna Smith",
+    "_doc_id": "user_anna"
+  },
+  {
+    "user_id": "user_chen",
+    "signup_date": "2025-07-22T10:00:00Z",
+    "email": "chen@example.com",
+    "country": "China",
+    "name": "Chen Yu",
+    "_doc_id": "user_chen"
+  },
+  {
+    "user_id": "user_john",
+    "signup_date": "2025-06-15T09:00:00Z",
+    "email": "john@example.com",
+    "country": "Australia",
+    "name": "John Doe",
+    "_doc_id": "user_john"
+  },
+  {
+    "user_id": "user_kunal",
+    "signup_date": "2024-08-01T12:00:00Z",
+    "email": "kunal@example.com",
+    "country": "India",
+    "name": "Kunal Morankar",
+    "_doc_id": "user_kunal"
+  },
+  {
+    "user_id": "user_li",
+    "signup_date": "2025-01-15T10:00:00Z",
+    "email": "li@example.com",
+    "country": "China",
+    "name": "Li Wei",
+    "_doc_id": "user_li"
+  },
+  {
+    "user_id": "user_maya",
+    "signup_date": "2025-08-30T13:00:00Z",
+    "email": "maya@example.com",
+    "country": "Mexico",
+    "name": "Maya Gomez",
+    "_doc_id": "user_maya"
+  },
+  {
+    "user_id": "user_mike",
+    "signup_date": "2025-03-20T14:00:00Z",
+    "email": "mike@example.com",
+    "country": "UK",
+    "name": "Mike Johnson",
+    "_doc_id": "user_mike"
+  },
+  {
+    "user_id": "user_rita",
+    "signup_date": "2025-05-05T08:00:00Z",
+    "email": "rita@example.com",
+    "country": "India",
+    "name": "Rita Patel",
+    "_doc_id": "user_rita"
+  },
+  {
+    "user_id": "user_rohit",
+    "signup_date": "2025-04-11T12:00:00Z",
+    "email": "rohit@example.com",
+    "country": "India",
+    "name": "Rohit Sharma",
+    "_doc_id": "user_rohit"
+  },
+  {
+    "user_id": "user_sara",
+    "signup_date": "2025-02-07T11:00:00Z",
+    "email": "sara@example.com",
+    "country": "Canada",
+    "name": "Sara Lee",
+    "_doc_id": "user_sara"
+  }
+]

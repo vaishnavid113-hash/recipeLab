@@ -1,0 +1,8 @@
+interaction_id,recipe_id,type,timestamp,reasons
+int-0001,chana-masala-005,rating,2025-11-16T02:49:47.970120+00:00,rating value not int
+int-0026,grilled-cheese-004,rating,2025-11-09T12:52:42.247988+00:00,rating value not int
+int-0017,puran-poli-019,rating,2025-11-15T07:26:48.981836+00:00,rating value not int
+int-0008,chocolate-cake-003,rating,2025-11-19T10:12:48.478330+00:00,rating value not int
+int-0004,quinoa-salad-013,rating,2025-11-10T02:31:40.273833+00:00,rating value not int
+int-0006,butter-chicken-007,rating,2025-11-16T08:14:40.431421+00:00,rating value not int
+int-0049,misal-pav-020,rating,2025-11-15T16:42:50.587286+00:00,rating value not int

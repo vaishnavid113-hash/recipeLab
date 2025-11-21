@@ -1,0 +1,902 @@
+[
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-13T08:03:50.457311Z",
+    "recipe_id": "pav-bhaji-001",
+    "user_id": "user_li",
+    "interaction_id": "int-0047",
+    "_doc_id": "0lzgC1GOs0RmMA9Ot8LK"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T21:13:50.318471Z",
+    "recipe_id": "paneer-tikka-006",
+    "user_id": "user_maya",
+    "interaction_id": "int-0044",
+    "_doc_id": "1CqfFXpqC5QIV5fnrvwb"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T19:32:42.173934Z",
+    "recipe_id": "chana-masala-005",
+    "user_id": "user_li",
+    "interaction_id": "int-0025",
+    "_doc_id": "1Gjn6mVDlmgZmLS9DUUn"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-10T10:13:50.627050Z",
+    "recipe_id": "masala-dosa-002",
+    "user_id": "user_chen",
+    "interaction_id": "int-0050",
+    "_doc_id": "2DXEWydwfPSb9glh0zAd"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-07T19:12:43.289574Z",
+    "recipe_id": "puran-poli-019",
+    "user_id": "user_chen",
+    "interaction_id": "int-0038",
+    "_doc_id": "2HXZHOzfNF2QmBedppoo"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-18T17:58:48.340361Z",
+    "recipe_id": "grilled-cheese-004",
+    "user_id": "user_rita",
+    "interaction_id": "int-0006",
+    "_doc_id": "2zKyqYN5JPxwgtAQOPmw"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-17T02:10:50.053413Z",
+    "recipe_id": "paneer-tikka-006",
+    "user_id": "user_sara",
+    "interaction_id": "int-0040",
+    "_doc_id": "4ZF7qcbLfChqHwgELY4M"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-13T21:43:50.009844Z",
+    "recipe_id": "paneer-tikka-006",
+    "user_id": "user_sara",
+    "interaction_id": "int-0039",
+    "_doc_id": "4kVG7lHGh4fQVEPWQvlx"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-10T07:04:43.717888Z",
+    "recipe_id": "chana-masala-005",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0043",
+    "_doc_id": "51lbxEGri5B5p3QwQmsN"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-11T22:36:49.296743Z",
+    "recipe_id": "veg-biryani-001",
+    "user_id": "user_rita",
+    "interaction_id": "int-0023",
+    "_doc_id": "5CPhMJr4Uk6fwymkSd7e"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-16T08:24:40.797637Z",
+    "recipe_id": "chana-masala-005",
+    "user_id": "user_rita",
+    "interaction_id": "int-0009",
+    "_doc_id": "64ZUmPOQbGBm6lgk8CJn"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T09:13:40.212381Z",
+    "recipe_id": "dal-tadka-008",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0003",
+    "_doc_id": "6QFzjGojOIi2zwBMbebY"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-20T21:02:49.659435Z",
+    "recipe_id": "edli-018",
+    "user_id": null,
+    "interaction_id": "int-0031",
+    "_doc_id": "6mjT5JrsaympaF2GhsXq"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-17T12:37:42.793388Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_chen",
+    "interaction_id": "int-0032",
+    "_doc_id": "6n8IDvOwOROAQ91Q8BxY"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-08T21:02:49.512032Z",
+    "recipe_id": "paneer-tikka-006",
+    "user_id": "user_mike",
+    "interaction_id": "int-0028",
+    "_doc_id": "7EoBTR7CnCyQiB9EZCCH"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-13T07:02:48.782815Z",
+    "recipe_id": "paneer-tikka-006",
+    "user_id": "user_anna",
+    "interaction_id": "int-0013",
+    "_doc_id": "7TF7vaIiGHTIIMbr8sCZ"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-14T19:55:44.059029Z",
+    "recipe_id": "grilled-cheese-004",
+    "user_id": "user_maya",
+    "interaction_id": "int-0046",
+    "_doc_id": "947L31tJeQzBRbSkySzq"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-10T09:53:49.793753Z",
+    "recipe_id": "quinoa-salad-013",
+    "user_id": "user_rohit",
+    "interaction_id": "int-0034",
+    "_doc_id": "9QJbJMtC8SilcFhwq5um"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T10:01:43.910961Z",
+    "recipe_id": "ramen-bowl-014",
+    "user_id": "user_john",
+    "interaction_id": "int-0045",
+    "_doc_id": "9S1S4NADaaKwFCxyo3Va"
+  },
+  {
+    "value": null,
+    "type": "like",
+    "timestamp": "2025-11-17T09:40:41.773353Z",
+    "recipe_id": "veg-biryani-001",
+    "user_id": "user_rita",
+    "interaction_id": "int-0020",
+    "_doc_id": "9bPJTzqTmd6q2aCO1oAE"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T19:27:40.350947Z",
+    "recipe_id": "falafel-wrap-015",
+    "user_id": "user_anna",
+    "interaction_id": "int-0005",
+    "_doc_id": "9g43ZUxoPnOufFlrAuhI"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-10T05:43:43.031521Z",
+    "recipe_id": "falafel-wrap-015",
+    "user_id": "user_sara",
+    "interaction_id": "int-0035",
+    "_doc_id": "A0KF84tgbkJXE3fXmV3u"
+  },
+  {
+    "value": null,
+    "type": "like",
+    "timestamp": "2025-11-09T02:37:42.404961Z",
+    "recipe_id": "puran-poli-019",
+    "user_id": "user_john",
+    "interaction_id": "int-0028",
+    "_doc_id": "AptN11Teux7aKEQDTDCq"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T18:14:41.101889Z",
+    "recipe_id": "masala-dosa-002",
+    "user_id": "user_rita",
+    "interaction_id": "int-0012",
+    "_doc_id": "BGbJaNxsLb48SA0hvS0u"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-19T21:13:43.549993Z",
+    "recipe_id": "tacos-012",
+    "user_id": "user_mike",
+    "interaction_id": "int-0041",
+    "_doc_id": "CGneK4s8hG3cYXV4IY0x"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-09T18:16:41.859968Z",
+    "recipe_id": "spaghetti-aglio-009",
+    "user_id": null,
+    "interaction_id": "int-0021",
+    "_doc_id": "CSJcZOot4vywWDC2N9bE"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-12T18:09:49.826556Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0035",
+    "_doc_id": "CpJNKjE2oNdZ144LeAVV"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-16T03:15:49.977408Z",
+    "recipe_id": "puran-poli-019",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0038",
+    "_doc_id": "EBUohLOmifsmWDXWnPsI"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T00:36:41.456096Z",
+    "recipe_id": "spaghetti-aglio-009",
+    "user_id": "user_chen",
+    "interaction_id": "int-0016",
+    "_doc_id": "EtjaS8QGEqiqSaNOVwuN"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-16T05:27:50.183934Z",
+    "recipe_id": "masala-dosa-002",
+    "user_id": null,
+    "interaction_id": "int-0042",
+    "_doc_id": "EtmFYnRQ2XqL5njgxfpc"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-12T06:39:48.545766Z",
+    "recipe_id": "dal-tadka-008",
+    "user_id": null,
+    "interaction_id": "int-0009",
+    "_doc_id": "Gsii93ABHYY1PAZ3Vmfc"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-20T02:17:48.053773Z",
+    "recipe_id": "spaghetti-aglio-009",
+    "user_id": "user_john",
+    "interaction_id": "int-0002",
+    "_doc_id": "HDhnkApIr2rtYfkNPpH5"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T04:28:49.192295Z",
+    "recipe_id": "vada-pav-017",
+    "user_id": "user_rita",
+    "interaction_id": "int-0021",
+    "_doc_id": "HNMDt5xzWmIQAVNQruTG"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-20T06:21:49.253106Z",
+    "recipe_id": "spaghetti-aglio-009",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0022",
+    "_doc_id": "HyttRuD0JRoLKg0Ftvc7"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-15T12:37:40.517847Z",
+    "recipe_id": "paneer-tikka-006",
+    "user_id": "user_maya",
+    "interaction_id": "int-0007",
+    "_doc_id": "I7cczqpXhv403tuM7I4h"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-09T03:34:42.017081Z",
+    "recipe_id": "vada-pav-017",
+    "user_id": null,
+    "interaction_id": "int-0023",
+    "_doc_id": "ICBI6pXKgItQKbtSRtxk"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-08T01:42:44.359422Z",
+    "recipe_id": "miso-soup-011",
+    "user_id": "user_sara",
+    "interaction_id": "int-0049",
+    "_doc_id": "JaAjQDPKFYZCjL4ocRc3"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-19T11:34:42.583282Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_maya",
+    "interaction_id": "int-0030",
+    "_doc_id": "LIHtMcPdJ6HUYILZQPF5"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-14T21:18:49.126069Z",
+    "recipe_id": "ramen-bowl-014",
+    "user_id": "user_sara",
+    "interaction_id": "int-0020",
+    "_doc_id": "LnaP8QLWYlDfpLbstMz6"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T13:20:43.364742Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_mike",
+    "interaction_id": "int-0039",
+    "_doc_id": "MZDJLTaqtCyATFRvdrTv"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-19T02:18:41.526278Z",
+    "recipe_id": "vada-pav-017",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0017",
+    "_doc_id": "N6O516GSLNemLuikmNLL"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-15T10:31:50.265561Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0043",
+    "_doc_id": "NUgqc80ao3bztSZxEEz8"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-16T14:39:48.419929Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_maya",
+    "interaction_id": "int-0007",
+    "_doc_id": "O2LVmatEfVo3xTEKZ8hO"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T05:05:42.100746Z",
+    "recipe_id": "veg-biryani-001",
+    "user_id": "user_sara",
+    "interaction_id": "int-0024",
+    "_doc_id": "Ok0uiUCpajOpLB1W2rbS"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T14:47:48.893568Z",
+    "recipe_id": "pav-bhaji-001",
+    "user_id": "user_mike",
+    "interaction_id": "int-0015",
+    "_doc_id": "PVRr8SKoosRZFL7GtdLQ"
+  },
+  {
+    "value": 4,
+    "type": "rating",
+    "timestamp": "2025-11-16T02:49:47.970120Z",
+    "recipe_id": "chana-masala-005",
+    "user_id": "user_john",
+    "interaction_id": "int-0001",
+    "_doc_id": "QWPwqFOxphbK9FFwtgvj"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-17T06:39:42.883862Z",
+    "recipe_id": "vada-pav-017",
+    "user_id": "user_john",
+    "interaction_id": "int-0033",
+    "_doc_id": "Qj9nbmbP8GQoTTKEVlF6"
+  },
+  {
+    "value": null,
+    "type": "like",
+    "timestamp": "2025-11-08T03:58:40.983662Z",
+    "recipe_id": "quinoa-salad-013",
+    "user_id": null,
+    "interaction_id": "int-0011",
+    "_doc_id": "RM8dhqlDlvKYIyP0g6mr"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T02:07:49.873482Z",
+    "recipe_id": "falafel-wrap-015",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0036",
+    "_doc_id": "S24vKZf4aP9aGCU0Yo0o"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-16T08:35:49.094821Z",
+    "recipe_id": "veg-biryani-001",
+    "user_id": "user_rita",
+    "interaction_id": "int-0019",
+    "_doc_id": "SF4Z3qlBvNigSuCjKVct"
+  },
+  {
+    "value": 3,
+    "type": "rating",
+    "timestamp": "2025-11-09T12:52:42.247988Z",
+    "recipe_id": "grilled-cheese-004",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0026",
+    "_doc_id": "SqDnKy0w6PTR3XVzKF3e"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-15T16:03:48.940875Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_chen",
+    "interaction_id": "int-0016",
+    "_doc_id": "TV7YnbTQlxOveN6Ho61s"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-15T17:16:40.599975Z",
+    "recipe_id": "tacos-012",
+    "user_id": null,
+    "interaction_id": "int-0008",
+    "_doc_id": "To0vBdVrTLHVZU4RnHoY"
+  },
+  {
+    "value": null,
+    "type": "like",
+    "timestamp": "2025-11-08T22:32:48.838103Z",
+    "recipe_id": "masala-dosa-002",
+    "user_id": "user_maya",
+    "interaction_id": "int-0014",
+    "_doc_id": "V2xyvRGmv3rvYLjGrNQw"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T15:28:41.673187Z",
+    "recipe_id": "chana-masala-005",
+    "user_id": "user_rita",
+    "interaction_id": "int-0019",
+    "_doc_id": "V8JhUXN4ZmHnYJdpG56x"
+  },
+  {
+    "value": 5,
+    "type": "rating",
+    "timestamp": "2025-11-15T07:26:48.981836Z",
+    "recipe_id": "puran-poli-019",
+    "user_id": "user_chen",
+    "interaction_id": "int-0017",
+    "_doc_id": "VhkY7x14xS3YuFN1BwqM"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-19T01:39:49.628129Z",
+    "recipe_id": "dal-tadka-008",
+    "user_id": "user_rohit",
+    "interaction_id": "int-0030",
+    "_doc_id": "WZugHRuBxrYoEhaZTYEu"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-13T03:51:49.558882Z",
+    "recipe_id": "masala-dosa-002",
+    "user_id": "user_sara",
+    "interaction_id": "int-0029",
+    "_doc_id": "WdqAZiQWNZaBlWPdJUvZ"
+  },
+  {
+    "value": 5,
+    "type": "rating",
+    "timestamp": "2025-11-19T10:12:48.478330Z",
+    "recipe_id": "chocolate-cake-003",
+    "user_id": "user_mike",
+    "interaction_id": "int-0008",
+    "_doc_id": "Wgq66uE6POnh0C6lAWoR"
+  },
+  {
+    "value": 4,
+    "type": "rating",
+    "timestamp": "2025-11-10T02:31:40.273833Z",
+    "recipe_id": "quinoa-salad-013",
+    "user_id": "user_sara",
+    "interaction_id": "int-0004",
+    "_doc_id": "X2WEoK0Z6jGANaEA4JHV"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-14T05:26:48.222405Z",
+    "recipe_id": "grilled-cheese-004",
+    "user_id": "user_rohit",
+    "interaction_id": "int-0004",
+    "_doc_id": "XfICFcUK0wZJdGgrCkBb"
+  },
+  {
+    "value": null,
+    "type": "attempt",
+    "timestamp": "2025-11-15T07:14:49.707590Z",
+    "recipe_id": "butter-chicken-007",
+    "user_id": "user_anna",
+    "interaction_id": "int-0032",
+    "_doc_id": "YCPpFBMeOToOkhXO4FEP"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-17T08:59:41.206740Z",
+    "recipe_id": "vada-pav-017",
+    "user_id": null,
+    "interaction_id": "int-0013",
+    "_doc_id": "YQXzBUveLkDl3pr40Krc"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T13:00:48.687651Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_rohit",
+    "interaction_id": "int-0011",
+    "_doc_id": "YTZCpQc1BWpCre6FWLEt"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-18T10:24:49.929040Z",
+    "recipe_id": "puran-poli-019",
+    "user_id": "user_sara",
+    "interaction_id": "int-0037",
+    "_doc_id": "ZylrzoEj6DXN8pGagbET"
+  },
+  {
+    "value": 5,
+    "type": "rating",
+    "timestamp": "2025-11-16T08:14:40.431421Z",
+    "recipe_id": "butter-chicken-007",
+    "user_id": null,
+    "interaction_id": "int-0006",
+    "_doc_id": "aBcs47cnof7btsS7efud"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-12T23:01:49.746938Z",
+    "recipe_id": "falafel-wrap-015",
+    "user_id": "user_john",
+    "interaction_id": "int-0033",
+    "_doc_id": "b6RcvcgA1qJd0CwPr4uH"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-19T13:04:49.343679Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_rita",
+    "interaction_id": "int-0024",
+    "_doc_id": "bv58q6lfeVMXgMZF8eSp"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-15T18:31:42.335131Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_mike",
+    "interaction_id": "int-0027",
+    "_doc_id": "c6PibDpaLkfq7LM9BEMf"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T11:09:43.460552Z",
+    "recipe_id": "ramen-bowl-014",
+    "user_id": "user_mike",
+    "interaction_id": "int-0040",
+    "_doc_id": "dlUuZtgf3MhKWQTpxOxy"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-11T20:14:49.376852Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_john",
+    "interaction_id": "int-0025",
+    "_doc_id": "dtFYeWBDVod6uAlAGp0N"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-05T19:27:40.898014Z",
+    "recipe_id": "edli-018",
+    "user_id": "user_john",
+    "interaction_id": "int-0010",
+    "_doc_id": "e9O5YQn7QoVCF4jwQ0WU"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-09T16:23:50.105545Z",
+    "recipe_id": "tacos-012",
+    "user_id": "user_sara",
+    "interaction_id": "int-0041",
+    "_doc_id": "et4nbKYou2ZVvJTmmCAa"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-06T04:01:42.962582Z",
+    "recipe_id": "miso-soup-011",
+    "user_id": null,
+    "interaction_id": "int-0034",
+    "_doc_id": "fYLfVpCkyhHyk3Qn2GwJ"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T17:27:42.689818Z",
+    "recipe_id": "grilled-cheese-004",
+    "user_id": "user_li",
+    "interaction_id": "int-0031",
+    "_doc_id": "gPabNn6kpcftYg86IQR3"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T02:50:50.520231Z",
+    "recipe_id": "veg-biryani-001",
+    "user_id": "user_john",
+    "interaction_id": "int-0048",
+    "_doc_id": "htiR3HhuAXrNz0tFPmWd"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T11:37:44.151313Z",
+    "recipe_id": "ramen-bowl-014",
+    "user_id": "user_sara",
+    "interaction_id": "int-0047",
+    "_doc_id": "ipoeNwXfG7vv2NvtUMzz"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-09T03:22:49.039356Z",
+    "recipe_id": "quinoa-salad-013",
+    "user_id": null,
+    "interaction_id": "int-0018",
+    "_doc_id": "jtyaupYKGZCMIezmkaNI"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-10T15:29:43.818159Z",
+    "recipe_id": "chocolate-cake-003",
+    "user_id": "user_li",
+    "interaction_id": "int-0044",
+    "_doc_id": "lC7l9AzRbgeP11Avz9TQ"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-20T02:04:41.601239Z",
+    "recipe_id": "chana-masala-005",
+    "user_id": "user_rita",
+    "interaction_id": "int-0018",
+    "_doc_id": "nEpkIesWWm9KBx8WvD09"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-16T00:03:40.013696Z",
+    "recipe_id": "dal-tadka-008",
+    "user_id": null,
+    "interaction_id": "int-0001",
+    "_doc_id": "nI817qORXqwHJoaWt3Nn"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-06T22:48:41.393311Z",
+    "recipe_id": "falafel-wrap-015",
+    "user_id": "user_chen",
+    "interaction_id": "int-0015",
+    "_doc_id": "ndKWPiqEGk0jvg7vIrzG"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-16T12:00:43.632244Z",
+    "recipe_id": "falafel-wrap-015",
+    "user_id": "user_rita",
+    "interaction_id": "int-0042",
+    "_doc_id": "ngl8im1xcBvKRVrEbddd"
+  },
+  {
+    "value": null,
+    "type": "like",
+    "timestamp": "2025-11-18T21:10:48.269276Z",
+    "recipe_id": "ramen-bowl-014",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0005",
+    "_doc_id": "pULWGO8ClkZ48nhiYEjV"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-08T06:44:42.474074Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_anna",
+    "interaction_id": "int-0029",
+    "_doc_id": "q4L4eCbD2RMOfW3WkfGz"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T14:52:50.362747Z",
+    "recipe_id": "tacos-012",
+    "user_id": "user_rohit",
+    "interaction_id": "int-0045",
+    "_doc_id": "qLgtCoLzDUYWE6N8bwWN"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-20T10:44:50.412552Z",
+    "recipe_id": "miso-soup-011",
+    "user_id": "user_sara",
+    "interaction_id": "int-0046",
+    "_doc_id": "qUmPVBPEBD9vrVd9EztB"
+  },
+  {
+    "value": 5,
+    "type": "rating",
+    "timestamp": "2025-11-15T16:42:50.587286Z",
+    "recipe_id": "misal-pav-020",
+    "user_id": null,
+    "interaction_id": "int-0049",
+    "_doc_id": "rnirNzZKNad9ZmCIQ6DH"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-10T11:04:49.424310Z",
+    "recipe_id": "dal-tadka-008",
+    "user_id": "user_john",
+    "interaction_id": "int-0026",
+    "_doc_id": "swN19vIcf1hEfrkoOuYm"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-18T15:28:43.134628Z",
+    "recipe_id": "quinoa-salad-013",
+    "user_id": "user_john",
+    "interaction_id": "int-0036",
+    "_doc_id": "t7km49GtQnr2X8xuBaW8"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-07T06:40:41.944713Z",
+    "recipe_id": "pancakes-010",
+    "user_id": "user_john",
+    "interaction_id": "int-0022",
+    "_doc_id": "uvr3wJyeIkSAILhPf47Q"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-12T22:29:44.264583Z",
+    "recipe_id": "ramen-bowl-014",
+    "user_id": "user_rita",
+    "interaction_id": "int-0048",
+    "_doc_id": "w0I4a5JM9LZIWLJeubjH"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-05T17:09:41.325908Z",
+    "recipe_id": "vada-pav-017",
+    "user_id": "user_kunal",
+    "interaction_id": "int-0014",
+    "_doc_id": "w18FKqaHS77T8HjPyo4I"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-06T12:38:40.107599Z",
+    "recipe_id": "chocolate-cake-003",
+    "user_id": "user_rita",
+    "interaction_id": "int-0002",
+    "_doc_id": "wHRIL0k9NdbVKmzDG23k"
+  },
+  {
+    "value": null,
+    "type": "like",
+    "timestamp": "2025-11-15T05:11:44.439387Z",
+    "recipe_id": "spaghetti-aglio-009",
+    "user_id": "user_rita",
+    "interaction_id": "int-0050",
+    "_doc_id": "x8YZqQhhPMcw5MxnCV4d"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-11T22:30:43.211997Z",
+    "recipe_id": "miso-soup-011",
+    "user_id": "user_rohit",
+    "interaction_id": "int-0037",
+    "_doc_id": "xNPJL8yWiiiOvuxFxvsX"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-11T06:08:48.640759Z",
+    "recipe_id": "pulav-016",
+    "user_id": "user_john",
+    "interaction_id": "int-0010",
+    "_doc_id": "xfkgquRGXAjzctmGDsRH"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-20T14:52:48.735888Z",
+    "recipe_id": "quinoa-salad-013",
+    "user_id": null,
+    "interaction_id": "int-0012",
+    "_doc_id": "y8QdWjqQ8VaJNCiMMWKC"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-17T01:42:48.174522Z",
+    "recipe_id": "chocolate-cake-003",
+    "user_id": "user_chen",
+    "interaction_id": "int-0003",
+    "_doc_id": "zDXctBmsLoZOUurPecQW"
+  },
+  {
+    "value": null,
+    "type": "view",
+    "timestamp": "2025-11-10T20:55:49.479841Z",
+    "recipe_id": "misal-pav-020",
+    "user_id": "user_rita",
+    "interaction_id": "int-0027",
+    "_doc_id": "zm8H0gZwffSd2e81dKrD"
+  }
+]
